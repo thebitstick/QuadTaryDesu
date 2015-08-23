@@ -427,7 +427,7 @@ select,
 
 .stream-item {
     margin: 3px;
-    margin-bottom: -3px;
+    margin-bottom: 0mm;
 }
 
 .link-complex, .url-ext {
