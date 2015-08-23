@@ -1,5 +1,11 @@
 @-moz-document domain("tweetdeck.twitter.com") {
 
+/* Font code */
+    
+body {
+    font-family: "Open Sans";
+}
+    
 /* Legacy code */
 
 .stream-item,
