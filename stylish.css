@@ -561,6 +561,17 @@ span.column-head-title {
 .is-inverted-dark, .js-tweet-text {
     color: #E4E4E4;
 }
+   
+.is-inverted-dark .tweet-detail-wrapper {
+    border-color: #263238;
+    background: #263238 none repeat scroll 0% 0%;
+}
+   
+.mdl-column-med {
+    width: 260px;
+    background: #2D2D2D none repeat scroll 0% 0%;
+    border-radius: 4px 0px 0px 4px;
+}
     
 /* ==OPTIONAL==
 Just add the slashes and asterisk at the two extremities of the code to deactivate and option */
