@@ -422,16 +422,21 @@ select,
     background-color: #263238;
 }
 
-
 /* Tweets */
-
+    
 .stream-item {
+	background-color: #37474F;
+    box-shadow: 1px 1px 2px #404040;
     margin: 3px;
-    margin-bottom: 0mm;
+    margin-bottom: 6px;
+    border: none;
+    color: #404040;
+    transition: background 0.1s ease-out;
 }
 
 .link-complex, .url-ext {
     color: #00BCD4;
+    transition: color 0.1s ease-out;
 }
 
 .fullname {
@@ -444,6 +449,7 @@ select,
 
 .account-link {
     color: #e2e2e2;
+    transition: color 0.1s ease-out;
 }
 
 .account-link:hover {
